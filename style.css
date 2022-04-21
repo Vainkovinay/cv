@@ -2,12 +2,16 @@ img {
   border-radius: 100%;
 }
 body{
-  background-color:#D7A86f
+  background-color:#fffdfc
 }
 hr{
   border-style: none;
   border-top-style: dotted;
-  border-color: White;
+  border-color: black;
   border-width: 5px;
-  width: 9%
+  width: 3%
 }
+h1,h3{
+  color:#66bfbf
+}
+
